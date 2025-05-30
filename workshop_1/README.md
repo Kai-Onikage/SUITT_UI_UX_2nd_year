@@ -9,13 +9,13 @@
 | picture2         | jpg               | 1920x1080          | 654 kb        |
 | picture3         | jpg               | 1175x960         | 50.2 kb          |
 
-#### picture1:
+#### Picture1:
 ![picture1](images/input/picture1.jpg "Picture 1")
 
-#### picture2:
+#### Picture2:
 ![picture2](images/input/picture2.jpg "Picture 2")
 
-#### picture3:
+#### Picture3:
 ![picture3](images/input/picture3.jpg "Picture 3")
 
 ---
@@ -40,9 +40,9 @@
 #### picture3:
 ![picture3](images/lossless/webp/picture3.webp "Picture 3")
 
----
 
-### Png
+
+### PNG
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
 |------------------|-------------------|-------------------|-----------------|-------|
@@ -51,13 +51,13 @@
 | picture3         | png               | 1175x960         | 515 kb           | +900% |
 
 
-#### picture1:
+#### Picture1:
 ![picture1](images/lossless/png/picture1.png "Picture 1")
 
-#### picture2:
+#### Picture2:
 ![picture2](images/lossless/png/picture2.png "Picture 2")
 
-#### picture3:
+#### Picture3:
 ![picture3](images/lossless/png/picture3.png "Picture 3")
 
 ---
@@ -72,13 +72,13 @@
 | picture2         | jpg               | 1920x1080        | 1.70 MB        | +154% |
 | picture3         | jpg               | 1175x960         | 157 Kb          | +206% |
 
-#### picture1:
+#### picture1
 ![picture1](images/lossy/MozJPEG/100q/picture1.jpg "Picture 1")
 
 #### picture2:
 ![picture2](images/lossy/MozJPEG/100q/picture2.jpg "Picture 2")
 
-#### picture3:
+#### picture3
 ![picture3](images/lossy/MozJPEG/100q/picture3.jpg "Picture 3")
 
 ---
@@ -94,7 +94,7 @@
 #### picture1:
 ![picture1](images/lossy/MozJPEG/75q/picture1.jpg "Picture 1")
 
-#### picture2:
+#### picture2
 ![picture2](images/lossy/MozJPEG/75q/picture2.jpg "Picture 2")
 
 #### picture3:
@@ -106,9 +106,9 @@
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
 |------------------|-------------------|-------------------|-----------------|-------|
-| picture1         | jpg               | 1100x639         | 53.1 kb         | -70%  |
-| picture2         | jpg               | 1920x1080        | 185 Kb          | -72%  |
-| picture3         | jpg               | 1175x960         | 37.1 Kb         | -28%  |
+| picture1         | jpg               | 1100x639         | 53.1 kb          | -70%  |
+| picture2         | jpg               | 1920x1080        | 185 Kb           | -72%  |
+| picture3         | jpg               | 1175x960         | 37.1 Kb          | -28%  |
 
 #### picture1:
 ![picture1](images/lossy/MozJPEG/50q/picture1.jpg "Picture 1")
@@ -126,10 +126,10 @@
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна | Якість |
 |------------------|-------------------|-------------------|-----------------|-------|--------|
 | picture1         | jpg               | 1100x639         | 26.0 Kb         | -86%  | 20%    |
-| picture2         | jpg               | 1920x1080       | 79.3 Kb         | -88%  | 20%    |
+| picture2         | jpg               | 1920x1080       | 79.3 Kb          | -88%  | 20%    |
 | picture3         | jpg               | 1175x960         | 18.5 Kb         | -64%  | 15%    |
 
-#### picture1:
+#### picture1
 ![picture1](images/lossy/MozJPEG/min/picture1.jpg "Picture 1")
 
 #### picture2:
@@ -139,6 +139,8 @@
 ![picture3](images/lossy/MozJPEG/min/picture3.jpg "Picture 3")
 
 ---
+
+
 
 ### WebP (100% quality)
 
@@ -173,7 +175,7 @@
 #### picture2:
 ![picture2](images/lossy/Webp/75q/picture2.webp "Picture 2")
 
-#### picture3:
+#### picture3
 ![picture3](images/lossy/Webp/75q/picture3.webp "Picture 3")
 
 --- 
@@ -186,13 +188,13 @@
 | picture2         | WebP              | 1920x1080       | 235 Kb          | -65%  |
 | picture3         | WebP              | 1175x960         | 30.7 Kb         | -40%  |
 
-#### picture1:
+#### Picture1:
 ![picture1](images/lossy/Webp/50q/picture1.webp "Picture 1")
 
-#### picture2:
+#### Picture2:
 ![picture2](images/lossy/Webp/50q/picture2.webp "Picture 2")
 
-#### picture3:
+#### Picture3:
 ![picture3](images/lossy/Webp/50q/picture3.webp "Picture 3")
 
 --- 
@@ -216,7 +218,8 @@
 
 ---
 
-### AVIF (quality 100%)
+
+### Avif (quality 100%)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
 |------------------|-------------------|-------------------|-----------------|-------|
@@ -235,7 +238,7 @@
 
 ---
 
-### AVIF ( quality 75%)
+### Avif ( quality 75%)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
 |------------------|-------------------|-------------------|-----------------|-------|
@@ -254,7 +257,7 @@
 
 ---
 
-### AVIF (50%)
+### Avif (quality 50%)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
 |------------------|-------------------|-------------------|-----------------|-------|
@@ -332,7 +335,7 @@
 
 ---
 
-### Для retina (2x size)
+### Retina-display (2x size)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
 |------------------|-------------------|-------------------|-----------------|-------|
@@ -340,13 +343,13 @@
 | picture2         | jpg               | 3840x2160         | 1.70 MB        | +153% |
 | picture3         | jpg               | 2350x1920         | 182 Kb          | +254%  |
 
-#### picture1:
+#### Picture1
 ![picture1](images/resize/retina/picture1.jpg "Picture 1")
 
-#### picture2:
+#### Picture2:
 ![picture2](images/resize/retina/picture2.jpg "Picture 2")
 
-#### picture3:
+#### Picture3:
 ![picture3](images/resize/retina/picture3.jpg "Picture 3")
 
 ---
