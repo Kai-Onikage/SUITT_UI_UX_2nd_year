@@ -11,4 +11,4 @@
 ---
 
 #### Посилання на виконане завдання у Figma
-
+https://www.figma.com/design/IACfVjNr46PnjBdGv8YKsl/Card?node-id=0-1&t=5iUxj3Nw7dkWGYRj-1
