@@ -7,7 +7,7 @@
 ---
 
 #### Результат:
-![card](images/card "card")
+![card](images/card.png "card")
 ---
 
 #### Посилання на виконане завдання у Figma
