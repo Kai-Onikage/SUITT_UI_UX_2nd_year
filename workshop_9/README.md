@@ -19,7 +19,7 @@
 #### Посилання на виконані завдання у Figma
 
 Вайрфрейм:
-
+https://www.figma.com/design/wzRBkT9RrFjuRJVwfToxNW/Wireframe?node-id=0-1&t=QIdLmtXHiMS7s4MI-1
 
 Клікабельний прототип:
 
