@@ -22,4 +22,4 @@
 https://www.figma.com/design/wzRBkT9RrFjuRJVwfToxNW/Wireframe?node-id=0-1&t=QIdLmtXHiMS7s4MI-1
 
 Клікабельний прототип:
-
+https://www.figma.com/design/dk1T4OmMIgHWizTMuUVSQZ/CliclableProto?node-id=0-1&t=ep2mJUwiihbhbDAF-1
